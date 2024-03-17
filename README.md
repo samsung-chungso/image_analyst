@@ -16,8 +16,9 @@ This deep learning model is used to extract roads from high resolution (1 meter)
 Digitizing roads from imagery is a time-consuming task and is commonly done by digitizing features manually. Deep learning models are highly capable of learning these complex semantics and can produce superior results. Use this deep learning model to automate this process and reduce the time and effort required for acquiring road layers.
 
 ### Object extraction from image
+![image](https://github.com/samsung-chungso/image_analyst/assets/103614665/82a129f2-7256-4112-aee5-d3bc70ce2fa8)
 
 
-### Further…
+#### Further…
 
 ### Automatic road extraction using deep learning
