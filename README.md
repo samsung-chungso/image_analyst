@@ -24,3 +24,5 @@ We used Detect Objects Using Deep Learning tool which requires a model definitio
 #### Further…
 
 ### Automatic road extraction using deep learning
+- 타 대학 캠퍼스 도로 추출 및 서비스 확대
+- 도로 추출 워크플로 자동화
