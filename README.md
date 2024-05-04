@@ -17,6 +17,7 @@ Digitizing roads from imagery is a time-consuming task and is commonly done by d
 
 ### Object extraction from image
 ![image](https://github.com/samsung-chungso/image_analyst/assets/103614665/82a129f2-7256-4112-aee5-d3bc70ce2fa8)
+
 Runs a trained deep learning model on an input raster to produce a feature class containing the objects it finds. The features are polyline of the objects.
 
 We used Detect Objects Using Deep Learning tool which requires a model definition file containing trained model information. The model was trained using the TensorFlow. The model definition file was a deep learning model package, and it contains the path to the Python raster function to be called to process each object and the path to the trained binary deep learning model file.
